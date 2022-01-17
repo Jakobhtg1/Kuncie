@@ -1,0 +1,61 @@
+{
+  "object": [
+    {
+      "name"  : "ShrineWidget",
+      "locator": "Shrine A fashionable retail app",
+      "detectBy": "accessibility id"
+    },
+    {
+      "name"  : "buttonMul",
+      "locator": "//android.view.ViewGroup[@content-desc='Onboarding_Start_Button']",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "Shrine Widget1",
+      "locator": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.view.View[3]/android.view.View/android.view.View/android.view.View[2]",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "Next",
+      "locator": "NEXT",
+      "detectBy": "accessibility id"
+    },
+    {
+      "name"  : "Walter Henly (white)",
+      "locator": "//android.widget.Button[contains(@content-desc, 'Walter henley')]",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "HamburgerButton",
+      "locator": "Open menu",
+      "detectBy": "accessibility id"
+    },
+    {
+      "name"  : "Accessories",
+      "locator": "ACCESSORIES",
+      "detectBy": "accessibility id"
+    },
+    {
+      "name"  : "Shrug bag",
+      "locator": "//android.widget.Button[contains(@content-desc, 'Shrug bag')]",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "Cart",
+      "locator": "//android.widget.Button[contains(@content-desc, 'Shopping cart')]",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "Total",
+      "locator": "//android.view.View[contains(@content-desc, 'TOTAL')]",
+      "detectBy": "xpath"
+    },
+    {
+      "name"  : "Clear Cart",
+      "locator": "CLEAR CART",
+      "detectBy": "accessibility id"
+    }
+     
+    
+  ]
+}

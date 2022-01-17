@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <theme>dark</theme>
+    <encoding>UTF-8</encoding>
+    <protocol>https</protocol>
+    <documentTitle>Automation Report</documentTitle>
+    <reportName>Automatin Run Result</reportName>
+    <dateFormat>yyyy-MM-dd</dateFormat>
+    <timeFormat>HH:mm:ss</timeFormat>
+  </configuration>
+</extentreports>
